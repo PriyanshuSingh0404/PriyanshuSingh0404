@@ -1,4 +1,15 @@
-## Hi there 👋
+# Hey there, I'm [Your Name] ⚡
+
+> **Software Engineer & Full-Stack Architect**  
+> Turning caffeine into high-concurrency systems, pixel-perfect interfaces, and clean, resilient code.
+
+---
+
+### 💻 What I Do
+* 🚀 **Full-Stack Mastery:** Architecting end-to-end distributed applications from edge caching down to database schemas.
+* ⚡ **Performance Obsessed:** Shaving milliseconds off latency, profiling memory leaks, and optimizing core web vitals.
+* 🛠️ **System Design:** Building fault-tolerant event-driven microservices that don't wake up on-call engineers at 3 AM.
+* 🧪 **Craftsmanship:** Clean architecture, idiomatic design patterns, bulletproof CI/CD pipelines, and high test coverage.
 
 
 
