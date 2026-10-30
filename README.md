@@ -1,4 +1,4 @@
-# Hey there, I'm [Your Name] ⚡
+# Hey there, I'm [PRIYANSHU SINGH] ⚡
 
 > **Software Engineer & Full-Stack Architect**  
 > Turning caffeine into high-concurrency systems, pixel-perfect interfaces, and clean, resilient code.
